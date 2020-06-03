@@ -1,0 +1,159 @@
+
+body{
+  margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40414e;
+
+}
+h1{
+  font-size: 5.625em;
+  margin:0 auto 0 auto;
+  padding-top: 200px;
+  font-family: 'Sacramento', cursive;
+  color:#ff9595;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66bfbf;
+  line-height:2;
+  font-weight:normal;
+  padding-bottom:10px;
+
+
+}
+
+p{
+  line-height: 2;
+}
+.top-container{
+    background-color:#faeee7;
+
+    position: relative;
+}
+
+.middle-container{
+  margin:100px 0;
+
+}
+
+.bottom-container{
+  background-color:#faeee7;
+  padding:20px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:20px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  top:300px;
+}
+
+
+
+
+.tenali{
+  width:25%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+
+
+}
+
+.own{
+  text-align:center;
+}
+
+.raj-guru{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.tingari{
+  width:25%;
+  padding-right:30px;
+  float:left;
+}
+
+h3{
+  color: #11999e;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+
+hr{
+  border: dotted #ff9595 6px;
+  border-bottom:none;
+  width:5%;
+
+}
+
+.contact-message{
+  width:40%;
+  margin:40px auto 60px;
+
+}
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  color: #F7F7F7 !important;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  -moz-border-radius: 13px;
+  -webkit-border-radius: 13px;
+  border-radius: 13px;
+  border: 2px solid #637FA3;
+  background: #63B8EE;
+  background: linear-gradient(top,  #11CDD4,  #11999E);
+  background: -ms-linear-gradient(top,  #11CDD4,  #11999E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#11CDD4), to(#11999E));
+  background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
+}
+.btn:hover {
+  color: #14396A !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -ms-linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -webkit-gradient(linear, left top, left bottom, from(#30E3CB), to(#2BC4AD));
+  background: -moz-linear-gradient(top,  #30E3CB,  #2BC4AD);
+}
+
+
+.footer-link{
+  color:#ff9595;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+a{
+  margin:10px 20px;
+  text-decoration:none;
+}
+
+a:hover{
+  color:#ff5200;
+}
+
+
+.copyrights{
+  color:#ff5200;
+  padding:20px 0;
+}
